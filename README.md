@@ -78,3 +78,4 @@ Då bedömning ännu ej är gjord på uppgiften så tillåts inga pull requests.
 Vid större förändringar önskar jag att en issue öppnas för diskussion om vad som ska förändras.
 
 ## Licens (License)
+***MIT***
