@@ -2,45 +2,40 @@
 
 ## Description (Beskrivning)
 
-***Här bör du kort förklara vilket eller vilka språk programmet är skrivet i samt vad syftet med projektet är.***
+***Här är förklaring utöver spelet och varför jag valde detta, samt vilket språk det är skrivet i.***
 
-Denna README är skriven i markdown. Den är till för att ge ett exempel på vad en README kan innehålla och hur den kan se ut.
+
 Programmet är skrivet i Python och har olika delar av kommenteringar på olika delar ut av koden. Syftet med mitt projekt är att försöka förstå lättare hur programmet fungerar eller hur python språket fungerar, så jag valde ett simpelt spel som jag spela mycket som mindre. 
 
 ## Technology/Languages/Built with (Teknologier/Språk/Byggt med - välj en)
 
-***Här kan du beskriva vilka språk som driver vilka delar av projektet, exempelvis att du skrivit frontend med JavaScript och Python för backend. Det kan även vara nyttigt att berätta vilka ramverk eller bibliotek du använt här för de olika delarna. För exemplena givna är React (för JS) och Flask (Python) bra att nämna. Utelämna add-ons eller plugins, lämna dessa till Acknowledgements.***
+***Här är hur programmet är skrivet, vilka språk och annat jag använt mig utav.***
 
 - Python
 - comments
 
 ## Requirements/Prerequisites (Krav)
 
-***Vad krävs för att köra ditt program? Lista bara kraven.***
+***Vad krävs för att köra ditt program?***
 
 - Python 3.7+
 - Terminal
 
 ## Installation
 
-***För att köra programmet listar du här vad som behövs och hur det installeras. Exempel:***
+***För att köra programmet behövs detta:***
 
 Detta projekt är testat på Python 3.7+. För att installera Python kan du besöka (https://www.python.org/downloads/) Följande länk för senaste versionen.
 
 Programmet kräver inga externa nedladdningar, utan bara att kopiera in koden och öppna en terminal.
 
-## Code conventions (Kodkonvention)
-
-***Detta är överkurs, men här kan du lista exempelvis hur filerna ska vara strukturerade, hur namngivning och kommentarer skrivs och massvis av annat. (Kan vara bra att förtydliga att PEP8 efterföljs.)***
-
 ## Hur det fungerar (Usage)
 
-***Använd detta utrymme för att visa användbara exempel av hur projektet kan användas. Skärmdumpar, kodexempel och demos passar in här. Du kan också länka till fler resurser, exempelvis en dokumentation.***
+Här är lite dokumentation under hur jag gjorde programmet under veckorna: https://docs.google.com/document/d/1T0OY3tMtnj1a1QNnQqJTaTuuoGh5sLt6za0Vn4ctWPA/edit?usp=sharing 
 
 ## Example (exempelkörning)
-
-***Visa gärna, genom ett kodblock från din konsol, eller en bild, hur en exempelkörning kan gå till.***
-
+**Här är en exempel spel körning**
+![Bild som visar hur det körs](/image/ticta.PNG)
 ## To do/Roadmap (Att göra/Plan)
 
 ***Det kan vara nyttigt att få andra som läser om projektet att få veta vad du saknar just nu i programmet. Gör detta gärna genom en lista där färdiga saker strukits över.***
