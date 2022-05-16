@@ -4,7 +4,7 @@
 
 ***Här är förklaring utöver spelet och varför jag valde detta, samt vilket språk det är skrivet i.***
 
-
+ 
 Programmet är skrivet i Python och har olika delar av kommenteringar på olika delar ut av koden. Syftet med mitt projekt är att försöka förstå lättare hur programmet fungerar eller hur python språket fungerar, så jag valde ett simpelt spel som jag spela mycket som mindre. 
 
 ## Technology/Languages/Built with (Teknologier/Språk/Byggt med - välj en)
@@ -66,8 +66,9 @@ Exempel:
 
 - Tog bort en onödig del som inte hängde ihop med spelet, alltså extra grejor som verkade onödigt att ens ha med från början
 
-## Att bidra (Contribution)
+### Verasion 1.2 
 
+-Detta är den färdiga koden som jag har allt i samma fil eftersom det var den lättare lösning.
 
 
 ***Inom programmeringsvärlden är det ofta populärt att man vill utveckla andras projekt och bidra till förbättring. För att underlätta detta är det bra om det i READMEn förklaras om det är tillåtet, och om det är det hur en går till väga för att kunna göra det. Detta avsnitt skulle se ut som följande:*** 
