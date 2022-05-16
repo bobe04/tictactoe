@@ -76,6 +76,7 @@ def play():
     player_input(player)
     player = int(not player)
     
+#Om ingen vunnit, alltså ovagjort är detta if satsen.
   if not empty:
     print("Ovagjort, ingen vinnare!")
 
